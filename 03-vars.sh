@@ -12,7 +12,7 @@ echo value of a is $a dollars
 # special variables for inputs
 # special variables used for inputs are $0 to $n,$* ,$#
 
-echo $0
-echo $1
-echo $*
-echo $#
+echo Script Name - $0
+echo First Argument - $1
+echo All Arguments - $*
+echo No. of Arguments - $#
