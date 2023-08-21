@@ -13,7 +13,3 @@ echo Bye
 
 
 
- id roboshop &>>${log_file}
-    if [ $? -eq 1 ]; then
-
-        fi
