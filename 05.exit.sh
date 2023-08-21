@@ -1,6 +1,6 @@
 sample() {
   echo Hello
-  return 1
+  return 5
   echo Bye
 }
 
