@@ -10,6 +10,3 @@ echo function exit status - $?
 echo Hello
 exit 101
 echo Bye
-
-
-
