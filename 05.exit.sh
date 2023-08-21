@@ -1,3 +1,3 @@
 echo Hello
-exit 1
+exit 101
 echo Bye
